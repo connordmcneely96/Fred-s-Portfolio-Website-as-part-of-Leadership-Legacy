@@ -2,9 +2,16 @@
 
 This directory contains all images used in the portfolio website.
 
-## Required Images
+## ⚠️ Important Note
 
-Please add the following images to this directory:
+**The site currently uses CSS gradient placeholders instead of images.** This allows the site to deploy and function immediately on Vercel without requiring actual image files.
+
+When you're ready to add your portfolio images:
+1. Add image files to this directory
+2. Update `components/ProjectCard.tsx` to use the images
+3. Git commit and push - Vercel will auto-deploy
+
+## Required Images (Optional - for when you're ready)
 
 ### Logo/Portfolio Images (from project files)
 
