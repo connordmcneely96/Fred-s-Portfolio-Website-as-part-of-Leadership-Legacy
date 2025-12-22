@@ -63,7 +63,7 @@ export default function Portfolio() {
     {
       title: 'Event Poster Series',
       category: 'Print' as const,
-      image: '/images/design-workspace.png',
+      image: '/images/its-not-over-cover.png',
       tags: ['Print Design', 'Poster', 'Event'],
       description: 'Eye-catching poster series for music event campaign.',
     },
